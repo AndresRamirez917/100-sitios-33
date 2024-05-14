@@ -125,7 +125,7 @@ margin-bottom: 2em;
 }
 
 .material-icons {
-   color: rgba(255, 0, 0, 0.466);
+   color: rgba(255, 0, 0, 0.322);
    font-size: 120px;
    margin: 0 auto;
    text-align: center;
@@ -145,6 +145,7 @@ margin-bottom: 2em;
 .card ul {
     margin-top: 1em;
     color: #424141;
+    text-align: justify;
 }
 
 /* contact */
