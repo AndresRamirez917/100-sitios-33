@@ -132,6 +132,10 @@ margin-bottom: 2em;
    display: block;
 }
 
+.card {
+    padding: 30px;
+}
+
 .card h3, h4{
     text-align: center;
     color: #424141;
